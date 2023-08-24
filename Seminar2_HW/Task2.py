@@ -1,5 +1,5 @@
-s = int(input('Введите сумму числе: '))
-p = int(input('Введите произведение: '))
+s = int(input('Введите сумму чисел: '))
+p = int(input('Введите произведение этих чисел: '))
 a = 0
 for x in range(s):
     for y in range(s):
